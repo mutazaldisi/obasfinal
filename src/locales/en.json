@@ -1,0 +1,80 @@
+{
+    "Home": "Home",
+    "Services": "Services",
+    "League": "League",
+    "Staff": "Staff",
+    "Facilities": "Facilities",
+    "ContactUs": "Contact Us",
+    "Register": "Register",
+    "Welcome": "Welcome!",
+    
+    "WelcomeParagraph": "Welcome to the Ottawa Basketball Association,\nthe hub for all things basketball in our community!\nWhether you're a player, coach, or fan, we provide\nthe resources you need. Explore our site for updates,\nevents, and ways to engage. Together, let's celebrate\nthe joy and competition of the game.",
+  
+    "RegisterHome": "Register",
+    "FooterReady":"Ready for The Competition? ",
+    "FooterTerms": "Terms and Conditions&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Privacy Policy",
+
+
+
+    "Service1Title": "Men’s Competitive/Recreational League",
+    "Service1Description": "Our Men's Basketball Leagues cater to all. The competitive league is for those seeking high-intensity action, while the recreational league offers a relaxed yet spirited atmosphere. Team Registration: $1000        Individual Registration: $100",
+    "Service2Title": "Women’s Competitive/Recreational League",
+    "Service2Description": "Our Women's Basketball Leagues offer both competitive and recreational options. The competitive league presents intense gameplay, while the recreational one promotes fun. Team Registration: $1000        Individual Registration: $100",
+    "Service3Title": "Co-ed League",
+    "Service3Description": "Our Coed Basketball League is the perfect blend of competitive spirit and community building. It allows both men and women to come together, celebrate their love for basketball, and promote inclusivity in sports. Team Registration: $1500        Individual Registration: $120",
+
+
+
+
+
+    "LeagueSchedules": "League Schedules",
+    "MenCompSchedule": "Men’s Comp Schedule",
+    "WomenCompSchedule": "Women’s Comp Schedule",
+    "MenRecSchedule": "Men’s Rec Schedule",
+    "WomenRecSchedule": "Women’s Rec Schedule",
+    "CoedSchedule": "Co-ed Schedule",
+    "Date": "Date",
+    "Teams": "Teams",
+    "Time": "Time",
+
+
+    "StaffTitle": "League Coordinators",
+    "StaffDescription": "our league coordinator, combines his basketball expertise and passion for community to oversee our operations.",
+
+
+
+
+    "FacilitiesTitle": "Locations",
+
+
+    "Facilitiesaddress": "4101 Innovation Dr,\nOttawa, ON K2K 0J3",
+    "Facilitiesphone": "Telephone: 613-737-1111",
+    "Facilitiesemail": "Email: OBAS@hotmail.com",
+    "Facilitieshours": "Hours Of Operation:\nMonday-Friday:\n9am-5pm",
+
+    "Facilitiesaddress2": "1701 Woodroffe Ave,\nNepean, ON K2G 1W2",
+    "ContactUsTitle": "Contact Us",
+    "ContactName": "Name",
+    "ContactEmail": "Email",
+    "ContactPhone": "Phone Number",
+    "ContactInquiries": "Inquiries",
+    "ContactSubmit": "Submit",
+
+    "ContactThankyou":"Thank you for contacting us. We will be in touch soon!",
+
+    "RegisterIndividually": "Register Individually",
+    "RegisterTeam": "Register a Team",
+    "CreditCard":"Credit Card",
+    "ExpiryDate": "Expiry Date",
+    "SelectLeague": "Select League",
+    "TeamName": "Team Name",
+    "PlayerName": "Player {{index}} Name",
+    "CheckBox":"Check box to accept individual enrollment",
+    "RegisterThankyou": "Thank you for your Registration! You will recieve a confirmation email soon!"
+
+
+
+    
+
+  }
+  

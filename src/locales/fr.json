@@ -1,0 +1,90 @@
+{
+    "Home": "Maison",
+    "Services": "Prestations de service",
+    "League": "Ligue",
+    "Staff": "Personnelle",
+    "Facilities": "Installations",
+    "ContactUs": "Contactez-nous",
+    "Register": "Enregistrer",
+    "Welcome": "Bienvenue!",
+    
+    "WelcomeParagrapgh": "Bienvenue à l'Association de basketball d'Ottawa,\nla plaque tournante de tout ce qui touche au basketball dans notre communauté !\nQue vous soyez joueur, entraîneur ou fan, nous offrons\nles ressources dont vous avez besoin. Explorez notre site pour les mises à jour,\nles événements et les moyens de s'engager. Ensemble, célébrons\nla joie et la compétition du jeu.",
+  
+    "RegisterHome": "Enregistrer",
+
+    "FooterReady": "Prêt pour la compétition ?",
+    "FooterTerms": "Conditions générales&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Politique de confidentialité",
+
+
+
+    "Service1Title": "Ligue Compétitive/Récréative pour Hommes",
+    "Service1Description": "Nos ligues de basketball pour hommes s'adressent à tous. La ligue compétitive est destinée à ceux qui recherchent une action intense, tandis que la ligue récréative offre une atmosphère détendue mais animée. Inscription d'équipe : 1000 $        Inscription individuelle : 100 $",
+    "Service2Title": "Ligue Compétitive/Récréative pour Femmes",
+    "Service2Description": "Nos ligues de basketball pour femmes offrent des options compétitives et récréatives. La ligue compétitive propose un gameplay intense, tandis que la ligue récréative favorise le plaisir. Inscription d'équipe : 1000 $        Inscription individuelle : 100 $",
+    "Service3Title": "Ligue Mixte",
+    "Service3Description": "Notre ligue de basketball mixte est le mélange parfait d'esprit compétitif et de cohésion communautaire. Elle permet aux hommes et aux femmes de se réunir, de célébrer leur amour pour le basketball et de promouvoir l'inclusivité dans le sport. Inscription d'équipe : 1500 $        Inscription individuelle : 120 $",
+
+
+
+
+
+    "LeagueSchedules": "Calendriers de la Ligue",
+    "MenCompSchedule": "Calendrier des Hommes Compétitif",
+    "WomenCompSchedule": "Calendrier des Femmes Compétitif",
+    "MenRecSchedule": "Calendrier des Hommes Récréatif",
+    "WomenRecSchedule": "Calendrier des Femmes Récréatif",
+    "CoedSchedule": "Calendrier Mixte",
+    "Date": "Date",
+    "Teams": "Équipes",
+    "Time":"Heure",
+
+
+
+
+    "StaffTitle": "Coordonnateurs de ligue",
+
+    "StaffDescription": "notre coordonnateur de la ligue, combine son expertise du basketball et sa passion pour la communauté pour superviser nos opérations.",
+
+
+
+    "FacilitiesTitle": "Emplacements",
+
+
+    
+    "Facilitiesaddress": "4101 Innovation Dr,\nOttawa, ON K2K 0J3",
+    "Facilitiesphone": "Telephone: 613-737-1111",
+    "Facilitiesemail": "Email: OBAS@hotmail.com",
+    "Facilitieshours": "Heures d'ouverture:\nLundi-vendredi:\n9h-17h",
+
+    "Facilitiesaddress2": "1701 Woodroffe Ave,\nNepean, ON K2G 1W2",
+
+    "ContactUsTitle": "Contactez-nous",
+    "ContactName": "Nom",
+    "ContactEmail": "Adresse e-mail",
+    "ContactPhone": "Numéro de téléphone",
+    "ContactInquiries": "Demandes de renseignements",
+    "ContactSubmit": "Soumettre",
+
+    "ContactThankyou":"Merci de nous contacter. Nous serons en contact bientot!",
+
+
+
+    "RegisterIndividually": "S'inscrire individuellement",
+    "RegisterTeam": "Inscrire une équipe",
+    "CreditCard": "Carte de crédit",
+    "ExpiryDate": "Date d'expiration",
+    "SelectLeague": "Sélectionner la ligue",
+    "TeamName": "Nom de l'équipe",
+    "PlayerName": "Nom du joueur {{index}}",
+    "CheckBox":"Cochez la case pour accepter l'inscription individuelle",
+
+    "RegisterThankyou": "Merci pour votre inscription! Vous recevrez bientôt un e-mail de confirmation !"
+
+    
+    
+
+
+
+
+
+}
