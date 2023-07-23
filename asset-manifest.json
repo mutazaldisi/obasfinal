@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/obasfinal/static/css/main.ac7497cb.css",
+    "main.js": "/obasfinal/static/js/main.27fe4f5e.js",
+    "static/js/787.950ca3fe.chunk.js": "/obasfinal/static/js/787.950ca3fe.chunk.js",
+    "static/media/HomeImg.jpg": "/obasfinal/static/media/HomeImg.6d2827575694130746dd.jpg",
+    "static/media/ContactUsLogo.jpg": "/obasfinal/static/media/ContactUsLogo.ca7a7817e1f1c86b55ae.jpg",
+    "static/media/Service2.jpg": "/obasfinal/static/media/Service2.426581d411b129ac2b2c.jpg",
+    "static/media/Service1.jpg": "/obasfinal/static/media/Service1.f478aeff6f3858203dee.jpg",
+    "static/media/Service3.jpg": "/obasfinal/static/media/Service3.b6d24075f570496789eb.jpg",
+    "static/media/Logo.jpg": "/obasfinal/static/media/Logo.356c7a00114e47baacf8.jpg",
+    "static/media/Gym1.jpg": "/obasfinal/static/media/Gym1.223a8b512014ca3d0e21.jpg",
+    "index.html": "/obasfinal/index.html",
+    "main.ac7497cb.css.map": "/obasfinal/static/css/main.ac7497cb.css.map",
+    "main.27fe4f5e.js.map": "/obasfinal/static/js/main.27fe4f5e.js.map",
+    "787.950ca3fe.chunk.js.map": "/obasfinal/static/js/787.950ca3fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac7497cb.css",
+    "static/js/main.27fe4f5e.js"
+  ]
+}
