@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <div className="home-container">
       <div className="home-image">
-        <img src={HomeImg} alt="Your description" />
+        <img src={HomeImg} alt="basketball-image" />
       </div>
       <div className="home-content">
         <h1>{t('Welcome')}</h1>
